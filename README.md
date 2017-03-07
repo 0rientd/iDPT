@@ -4,9 +4,9 @@
 
 iDevice Perl Tool is a tool for Jailbroken Apple iDevices.
 
-You MUST have Cydia and Open SSH installed in your iDevice.
+You MUST have Cydia and OpenSSH installed in your iDevice.
 
-This tool provide ( more features are coming ) backup all your photos, videos, Slo-Mo videos and some files to of your iDevice to your PC.
+This tool provide ( more features are coming ) backup all your photos, videos, Slo-Mo videos and some files of your iDevice to your PC.
 
 The folder which the files are saved is named according to the day's date.
 
