@@ -33,9 +33,9 @@ my @push_array_info;
 ########################
 
 #################### System commands
-my $version = "1.2.1";
+my $version = "1.2.2";
 
-if ( $OS eq "win32" ) {
+if ( $OS eq "MSWin32" ) {
 
 	$clear = "cls";
 	
